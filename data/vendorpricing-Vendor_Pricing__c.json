@@ -1,0 +1,301 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef5"
+            },
+            "Item__c": "@itemRef3",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 325,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef6"
+            },
+            "Item__c": "@itemRef4",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 313,
+            "Vendor__c": "@vendorRef3"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef14"
+            },
+            "Item__c": "@itemRef12",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 200,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef15"
+            },
+            "Item__c": "@itemRef13",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 368,
+            "Vendor__c": "@vendorRef3"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef16"
+            },
+            "Item__c": "@itemRef14",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 400,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef17"
+            },
+            "Item__c": "@itemRef15",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 368,
+            "Vendor__c": "@vendorRef3"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef18"
+            },
+            "Item__c": "@itemRef16",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 175,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef19"
+            },
+            "Item__c": "@itemRef17",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 475,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef20"
+            },
+            "Item__c": "@itemRef18",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 500,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef21"
+            },
+            "Item__c": "@itemRef19",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 340,
+            "Vendor__c": "@vendorRef3"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef24"
+            },
+            "Item__c": "@itemRef3",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 340,
+            "Vendor__c": "@vendorRef3"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef25"
+            },
+            "Item__c": "@itemRef4",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 375,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef33"
+            },
+            "Item__c": "@itemRef12",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 2500,
+            "Vendor__c": "@vendorRef7"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef34"
+            },
+            "Item__c": "@itemRef13",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 455,
+            "Vendor__c": "@vendorRef8"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef36"
+            },
+            "Item__c": "@itemRef15",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 550,
+            "Vendor__c": "@vendorRef2"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef37"
+            },
+            "Item__c": "@itemRef16",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 975,
+            "Vendor__c": "@vendorRef9"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef39"
+            },
+            "Item__c": "@itemRef18",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 7900,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef40"
+            },
+            "Item__c": "@itemRef19",
+            "Active__c": false,
+            "Default__c": false,
+            "Repair_Cost__c": 331,
+            "Vendor__c": "@vendorRef4"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef43"
+            },
+            "Item__c": "@itemRef3",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 385,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef53"
+            },
+            "Item__c": "@itemRef13",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 970,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef54"
+            },
+            "Item__c": "@itemRef14",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 550,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef55"
+            },
+            "Item__c": "@itemRef15",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 750,
+            "Vendor__c": "@vendorRef9"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef56"
+            },
+            "Item__c": "@itemRef16",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 500,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef57"
+            },
+            "Item__c": "@itemRef17",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 235,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef58"
+            },
+            "Item__c": "@itemRef18",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 350,
+            "Vendor__c": "@vendorRef9"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef59"
+            },
+            "Item__c": "@itemRef19",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 115,
+            "Vendor__c": "@vendorRef5"
+        },
+        {
+            "attributes": {
+                "type": "Vendor_Pricing__c",
+                "referenceId": "vendorpricingRef62"
+            },
+            "Item__c": "@itemRef3",
+            "Active__c": false,
+            "Default__c": false,
+            "Purchase_Cost__c": 500,
+            "Vendor__c": "@vendorRef7"
+        }
+    ]
+}

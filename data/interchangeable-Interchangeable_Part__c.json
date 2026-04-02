@@ -1,0 +1,38 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Interchangeable_Part__c",
+                "referenceId": "interchangeableRef1"
+            },
+            "Name": "test",
+            "Child_Item__c": "@itemRef1",
+            "Parent_Item__c": "@itemRef1"
+        },
+        {
+            "attributes": {
+                "type": "Interchangeable_Part__c",
+                "referenceId": "interchangeableRef2"
+            },
+            "Name": "a0Bao00000RB6XB"
+        },
+        {
+            "attributes": {
+                "type": "Interchangeable_Part__c",
+                "referenceId": "interchangeableRef3"
+            },
+            "Name": "TOM-10G-SR1-A_TOM-10G-SR1",
+            "Child_Item__c": "@itemRef4",
+            "Parent_Item__c": "@itemRef2"
+        },
+        {
+            "attributes": {
+                "type": "Interchangeable_Part__c",
+                "referenceId": "interchangeableRef4"
+            },
+            "Name": "TOM-10G-SR1-A=_130-0001-002",
+            "Child_Item__c": "@itemRef1",
+            "Parent_Item__c": "@itemRef2"
+        }
+    ]
+}

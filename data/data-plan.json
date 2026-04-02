@@ -1,0 +1,66 @@
+[
+  {
+    "sobject": "Vendor__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "vendor-Vendor__c.json"
+    ]
+  },
+  {
+    "sobject": "Customer__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "customer-Customer__c.json"
+    ]
+  },
+  {
+    "sobject": "Site__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "site-Site__c.json"
+    ]
+  },
+  {
+    "sobject": "Item__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "item-Item__c.json"
+    ]
+  },
+  {
+    "sobject": "Interchangeable_Part__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "interchangeable-Interchangeable_Part__c.json"
+    ]
+  },
+  {
+    "sobject": "Item_Site__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "itemsite-Item_Site__c.json"
+    ]
+  },
+  {
+    "sobject": "Vendor_Pricing__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "vendorpricing-Vendor_Pricing__c.json"
+    ]
+  },
+  {
+    "sobject": "Order__c",
+    "saveRefs": true,
+    "resolveRefs": true,
+    "files": [
+      "order-Order__c.json"
+    ]
+  }
+]

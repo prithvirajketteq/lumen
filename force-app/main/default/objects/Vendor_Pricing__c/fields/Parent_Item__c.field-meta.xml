@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Parent_Item__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Parent Item</label>
+    <lookupFilter>
+        <active>true</active>
+        <errorMessage>Non Primary Item cannot be Parent Item</errorMessage>
+        <filterItems>
+            <field>Item__c.Primary__c</field>
+            <operation>equals</operation>
+            <value>True</value>
+        </filterItems>
+        <isOptional>false</isOptional>
+    </lookupFilter>
+    <referenceTo>Item__c</referenceTo>
+    <relationshipLabel>Vendor Pricings (Parent Item)</relationshipLabel>
+    <relationshipName>Vendor_Pricings1</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

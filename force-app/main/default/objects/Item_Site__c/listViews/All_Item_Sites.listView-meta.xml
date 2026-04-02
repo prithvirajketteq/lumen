@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Item_Sites</fullName>
+    <booleanFilter>1 or 2 or 3</booleanFilter>
+    <columns>NAME</columns>
+    <columns>Item__c</columns>
+    <columns>Site__c</columns>
+    <columns>Spares__c</columns>
+    <columns>Spares_AWR__c</columns>
+    <columns>Spares_Required__c</columns>
+    <columns>Stock__c</columns>
+    <columns>Stock_AWR__c</columns>
+    <columns>Total_Deployed__c</columns>
+    <columns>Item_Site__c</columns>
+    <columns>External_ID__c</columns>
+    <filterScope>Everything</filterScope>
+    <filters>
+        <field>Item__c</field>
+        <operation>equals</operation>
+        <value>1AB390930013</value>
+    </filters>
+    <filters>
+        <field>Item__c</field>
+        <operation>equals</operation>
+        <value>1061701863</value>
+    </filters>
+    <filters>
+        <field>Item__c</field>
+        <operation>equals</operation>
+        <value>108994989</value>
+    </filters>
+    <label>All Item Sites</label>
+</ListView>

@@ -1,0 +1,484 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef1"
+      },
+      "Name": "Clena Corporation",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef2"
+      },
+      "Name": "Fortress",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef3"
+      },
+      "Name": "Chicago Tech",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef4"
+      },
+      "Name": "Precision",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef5"
+      },
+      "Name": "PICS",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef6"
+      },
+      "Name": "CTDI-Bessemer",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef7"
+      },
+      "Name": "Nave",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef8"
+      },
+      "Name": "Sagent",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef9"
+      },
+      "Name": "STSS",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef10"
+      },
+      "Name": "Vardata",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef11"
+      },
+      "Name": "Tempest",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef12"
+      },
+      "Name": "Telmar",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef13"
+      },
+      "Name": "WWS",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef14"
+      },
+      "Name": "Overture North Carolina",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef15"
+      },
+      "Name": "Fortress Leesburg",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef16"
+      },
+      "Name": "American",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef17"
+      },
+      "Name": "CTDI-West Chester",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef18"
+      },
+      "Name": "CTDI",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef19"
+      },
+      "Name": "CTDI-Exton",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef20"
+      },
+      "Name": "CTDI-Elgin",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef21"
+      },
+      "Name": "Adva",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef22"
+      },
+      "Name": "Adtran",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef23"
+      },
+      "Name": "Syncworks",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef24"
+      },
+      "Name": "Eltek Valere Illinois",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef25"
+      },
+      "Name": "Eltek Valere Texas",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef26"
+      },
+      "Name": "VEN-TEL",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef27"
+      },
+      "Name": "Telco Sys",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef28"
+      },
+      "Name": "Tyco",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef29"
+      },
+      "Name": "Dantel",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef30"
+      },
+      "Name": "Digital Repair",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef31"
+      },
+      "Name": "Legacy Fiber Optics",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef32"
+      },
+      "Name": "Mohawk Ltd",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef33"
+      },
+      "Name": "Fujitsu",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef34"
+      },
+      "Name": "Ciena",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef35"
+      },
+      "Name": "Ekinops",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef36"
+      },
+      "Name": "Evertz",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef37"
+      },
+      "Name": "COMTEK",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef38"
+      },
+      "Name": "JDSU",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef39"
+      },
+      "Name": "Juniper",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef40"
+      },
+      "Name": "Alcatel",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef41"
+      },
+      "Name": "Lucent DMX",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef42"
+      },
+      "Name": "ASN Alcatel Submarine Networks",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef43"
+      },
+      "Name": "Infinera",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef44"
+      },
+      "Name": "Westworld",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef45"
+      },
+      "Name": "RAD DATA",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef46"
+      },
+      "Name": "Digital Lightwave",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef47"
+      },
+      "Name": "Symmetricom",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef48"
+      },
+      "Name": "GE (Peco 2)",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef49"
+      },
+      "Name": "TesCom",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef50"
+      },
+      "Name": "EXFO",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef51"
+      },
+      "Name": "Vivax-Metrotech",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef52"
+      },
+      "Name": "Norscan",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef53"
+      },
+      "Name": "Radio Detection",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef54"
+      },
+      "Name": "Specialized",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef55"
+      },
+      "Name": "Shield",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef56"
+      },
+      "Name": "ICBS",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef57"
+      },
+      "Name": "Midtronics",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef58"
+      },
+      "Name": "TAG",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef59"
+      },
+      "Name": "Calix",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    },
+    {
+      "attributes": {
+        "type": "Vendor__c",
+        "referenceId": "vendorRef60"
+      },
+      "Name": "Cisco",
+      "RecordTypeId": "012RK00000EDIS9YAP"
+    }
+  ]
+}

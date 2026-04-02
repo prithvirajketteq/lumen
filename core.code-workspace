@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "e:/lumen"
+    }
+  ],
+  "settings": {
+    "eslint.workingDirectories": [
+      "e:/lumen"
+    ],
+    "eslint.validate": [
+      "javascript",
+      "typescript"
+    ],
+    "eslint.options": {
+      "overrideConfigFile": "e:\\lumen\\.eslintrc.json"
+    }
+  }
+}

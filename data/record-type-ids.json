@@ -1,0 +1,14 @@
+{
+  "Vendor__c": {
+    "Repair_Vendor": "012RK00000EDIS9YAP",
+    "Supplier": "012RK00000EDISAYA5"
+  },
+  "Site__c": {
+    "Depot": "012RK00000EDIS7YAP",
+    "Warehouse": "012RK00000EDIS8YAP"
+  },
+  "Order__c": {
+    "Demand_Order": "012RK00000EDIS5YAP",
+    "Supply_Order": "012RK00000EDIS6YAP"
+  }
+}

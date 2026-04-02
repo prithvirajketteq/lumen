@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+
+    <apiVersion>66.0</apiVersion>
+    <isExposed>true</isExposed>
+
+    <targets>
+        <target>lightning__RecordPage</target>
+    </targets>
+
+    <targetConfigs>
+
+        <targetConfig targets="lightning__RecordPage">
+
+        <property
+            name="childObject"
+            type="String"
+            label="Child Object API Name"
+            required="true"/>
+
+        <property
+            name="parentLookupField"
+            type="String"
+            label="Parent Lookup Field"
+            required="true"/>
+
+        <property
+            name="fieldNames"
+            type="String"
+            label="Field API Names (comma separated)"
+            required="true"/>
+
+        <property
+            name="filterCondition"
+            type="String"
+            label="SOQL Filter Condition"
+            description="Example: Status__c = 'Active' AND Purchase_Cost__c > 0"/>
+
+    </targetConfig>
+
+    </targetConfigs>
+
+</LightningComponentBundle>

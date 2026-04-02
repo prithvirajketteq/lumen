@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomMetadata xmlns="http://soap.sforce.com/2006/04/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <label>BatchCalculateRepairAction_SOQL1</label>
+    <protected>false</protected>
+    <values>
+        <field>Active__c</field>
+        <value xsi:type="xsd:boolean">true</value>
+    </values>
+    <values>
+        <field>Config_Key__c</field>
+        <value xsi:type="xsd:string">BatchCalculateRepairAction_SOQL1</value>
+    </values>
+    <values>
+        <field>Config_Value__c</field>
+        <value xsi:type="xsd:string">SELECT Id,
+                   kqexe__Supplier_Part_Number__c,
+                   kqexe__Failures_Repair__c,
+                   kqexe__Spare_3PL__c,
+                   kqexe__Central_Spare__c,
+                   kqexe__In_Repair__c,
+                   kqexe__Awaiting_Return__c,
+                   kqexe__Intransit_To_Depots__c,
+                   kqexe__Required_Central_Spares__c,
+                   kqexe__Excess_Spares_Good__c,
+                   kqexe__Repair_Action__c,
+Local_Spares__c
+            FROM kqexe__Item__c</value>
+    </values>
+</CustomMetadata>

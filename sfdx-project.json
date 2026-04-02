@@ -1,0 +1,26 @@
+{
+    "packageDirectories":  [
+                               {
+                                   "path":  "force-app-unpackaged",
+                                   "default":  false
+                               },
+                               {
+                                   "path":  "force-app",
+                                   "default":  true,
+                                   "package":  "kqexe",
+                                   "versionName":  "ver 5.0 Mar 2026",
+                                   "versionNumber":  "5.0.0.NEXT",
+                                   "definitionFile":  "config/project-scratch-def.json",
+                                   "ancestorVersion":  "NONE"
+                               }
+                           ],
+    "name":  "kqexe",
+    "sfdcLoginUrl":  "https://login.salesforce.com",
+    "sourceApiVersion":  "66.0",
+    "packageAliases":  {
+                           "kqexe":  "0Hoa50000002vBtCAI",
+                           "kqexe@4.0.0-1":  "04ta500000D2PPRAA3",
+                           "kqexe@4.0.0-2":  "04ta500000D2PR3AAN",
+                           "kqexe@5.0.0-1":  "04ta500000D9GKbAAN"
+                       }
+}

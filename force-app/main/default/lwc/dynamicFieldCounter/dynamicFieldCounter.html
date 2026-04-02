@@ -1,0 +1,20 @@
+<template>
+    <template lwc:if={showComponent}>
+    <lightning-card title="Field Totals">
+
+        <div class="slds-p-around_medium">
+
+             <lightning-datatable
+                key-field="id"
+                data={data}
+                columns={columns}
+                resize-column-disabled="false"
+                hide-checkbox-column>
+            </lightning-datatable>
+
+        </div>
+
+    </lightning-card>
+    </template>
+
+</template>

@@ -1,0 +1,15 @@
+{
+  "_comment": "Maps source RecordTypeIds (from data export) to DeveloperNames. postInstall.js queries the target org to find the correct IDs for each DeveloperName at import time.",
+  "Vendor__c": {
+    "012RK00000EDIS9YAP": "Repair_Vendor",
+    "012RK00000EDISAYA5": "Supplier"
+  },
+  "Site__c": {
+    "012RK00000EDIS7YAP": "Depot",
+    "012RK00000EDIS8YAP": "Warehouse"
+  },
+  "Order__c": {
+    "012RK00000EDIS5YAP": "Demand_Order",
+    "012RK00000EDIS6YAP": "Supply_Order"
+  }
+}

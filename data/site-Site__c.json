@@ -1,0 +1,684 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef1"
+            },
+            "Name": "Tulsa",
+            "RecordTypeId": "012RK00000EDIS8YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef2"
+            },
+            "Name": "Denver",
+            "RecordTypeId": "012RK00000EDIS8YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef3"
+            },
+            "Name": "Dallas",
+            "RecordTypeId": "012RK00000EDIS8YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef4"
+            },
+            "Name": "UPS - ALBANY NY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef5"
+            },
+            "Name": "UPS - ALBUQUERQUE NM",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef6"
+            },
+            "Name": "UPS - AMARILLO TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef7"
+            },
+            "Name": "UPS - ATLANTA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef8"
+            },
+            "Name": "UPS - AUSTIN TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef9"
+            },
+            "Name": "UPS - BEND OR",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef10"
+            },
+            "Name": "UPS - BIRMINGHAM AL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef11"
+            },
+            "Name": "UPS - BOISE ID",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef12"
+            },
+            "Name": "UPS - BRECKSVILLE OH",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef13"
+            },
+            "Name": "UPS - BURBANK CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef14"
+            },
+            "Name": "UPS - CAMP HILL PA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef15"
+            },
+            "Name": "UPS - CASPER WY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef16"
+            },
+            "Name": "UPS - CHARLOTTE NC",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef17"
+            },
+            "Name": "UPS - CHICAGO IL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef18"
+            },
+            "Name": "UPS - COLORADO SPRINGS",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef19"
+            },
+            "Name": "UPS - CORPUS CHRISTI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef20"
+            },
+            "Name": "UPS - CRANBERRY TNSHIPPA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef21"
+            },
+            "Name": "UPS - DALLAS",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef22"
+            },
+            "Name": "UPS - DENVER CO",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef23"
+            },
+            "Name": "UPS - DES MOINES IA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef24"
+            },
+            "Name": "UPS - DURHAM NC",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef25"
+            },
+            "Name": "UPS - EL PASO TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef26"
+            },
+            "Name": "UPS - FENTON MO",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef27"
+            },
+            "Name": "UPS - FORT COLLINS CO",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef28"
+            },
+            "Name": "UPS - FORT LAUDERDALEFL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef29"
+            },
+            "Name": "UPS - FRESNO CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef30"
+            },
+            "Name": "UPS - GREENVILLE SC",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef31"
+            },
+            "Name": "UPS - HAYWARD CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef32"
+            },
+            "Name": "UPS - HEBRON KY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef33"
+            },
+            "Name": "UPS - HILO HI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef34"
+            },
+            "Name": "UPS - HONOLULU HI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef35"
+            },
+            "Name": "UPS - HOUSTON TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef36"
+            },
+            "Name": "UPS - INDIANAPOLIS IN",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef37"
+            },
+            "Name": "UPS - JACKSONVILLE FL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef38"
+            },
+            "Name": "UPS - KAHULUI HI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef39"
+            },
+            "Name": "UPS - KANSAS CITY MO",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef40"
+            },
+            "Name": "UPS - KENNEWICK WA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef41"
+            },
+            "Name": "UPS - LAS VEGAS NV",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef42"
+            },
+            "Name": "UPS - LIHUE HI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef43"
+            },
+            "Name": "UPS - LITTLE ROCK AR",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef44"
+            },
+            "Name": "UPS - LOUISVILLE KY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef45"
+            },
+            "Name": "UPS - MALDEN MA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef46"
+            },
+            "Name": "UPS - MEMPHIS TN",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef47"
+            },
+            "Name": "UPS - METAIRE LA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef48"
+            },
+            "Name": "UPS - MISSISSAUGA ON",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef49"
+            },
+            "Name": "UPS - MOBILE AL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef50"
+            },
+            "Name": "UPS - MONTGOMERY AL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef51"
+            },
+            "Name": "UPS - NASHVILLE TN",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef52"
+            },
+            "Name": "UPS - NEWARK",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef53"
+            },
+            "Name": "UPS - OMAHA NE",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef54"
+            },
+            "Name": "UPS - ORLANDO FL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef55"
+            },
+            "Name": "UPS - PEARL MS",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef56"
+            },
+            "Name": "UPS - PORT ALLEN LA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef57"
+            },
+            "Name": "UPS - PORTLAND OR",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef58"
+            },
+            "Name": "UPS - REDDING CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef59"
+            },
+            "Name": "UPS - RENO NV",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef60"
+            },
+            "Name": "UPS - RICHMOND VA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef61"
+            },
+            "Name": "UPS - ROCHESTER NY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef62"
+            },
+            "Name": "UPS - SACRAMENTO",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef63"
+            },
+            "Name": "UPS - SALEM VA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef64"
+            },
+            "Name": "UPS - SALT LAKE CITY",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef65"
+            },
+            "Name": "UPS - SAN ANGELO TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef66"
+            },
+            "Name": "UPS - SAN ANTONIO TX",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef67"
+            },
+            "Name": "UPS - SAN DIEGO CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef68"
+            },
+            "Name": "UPS - SANTA MARIA CA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef69"
+            },
+            "Name": "UPS - SAVANNAH GA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef70"
+            },
+            "Name": "UPS - SCHOFIELD WI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef71"
+            },
+            "Name": "UPS - SHARON HILL PA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef72"
+            },
+            "Name": "UPS - SHELTON CT",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef73"
+            },
+            "Name": "UPS - SHREVEPORT LA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef74"
+            },
+            "Name": "UPS - SPOKANE WA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef75"
+            },
+            "Name": "UPS - TALLAHASSEE FL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef76"
+            },
+            "Name": "UPS - TAMPA FL",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef77"
+            },
+            "Name": "UPS - TEMPE AZ",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef78"
+            },
+            "Name": "UPS - TROY MI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef79"
+            },
+            "Name": "UPS - TUCSON AZ",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef80"
+            },
+            "Name": "UPS - TUKWILA WA",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef81"
+            },
+            "Name": "UPS - TULSA OK",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef82"
+            },
+            "Name": "UPS - WAUKESHA WI",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef83"
+            },
+            "Name": "UPS - WICHITA KS",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef84"
+            },
+            "Name": "UPS - WILLISTON VT",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        },
+        {
+            "attributes": {
+                "type": "Site__c",
+                "referenceId": "siteRef85"
+            },
+            "Name": "UPS - WORTHINGTON OH",
+            "RecordTypeId": "012RK00000EDIS7YAP"
+        }
+    ]
+}

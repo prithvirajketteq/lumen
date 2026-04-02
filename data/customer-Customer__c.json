@@ -1,0 +1,12 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Customer__c",
+                "referenceId": "customerRef1"
+            },
+            "Name": "Lumen",
+            "Description__c": "Level 3 Communication LLC"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Customer_Group__c</fullName>
+    <label>Customer Group</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Group A</fullName>
+                <default>false</default>
+                <label>Group A</label>
+            </value>
+            <value>
+                <fullName>Group B</fullName>
+                <default>false</default>
+                <label>Group B</label>
+            </value>
+            <value>
+                <fullName>Group C</fullName>
+                <default>false</default>
+                <label>Group C</label>
+            </value>
+            <value>
+                <fullName>Enterprise</fullName>
+                <default>false</default>
+                <label>Enterprise</label>
+            </value>
+            <value>
+                <fullName>SMB</fullName>
+                <default>false</default>
+                <label>SMB</label>
+            </value>
+            <value>
+                <fullName>Default</fullName>
+                <default>true</default>
+                <label>Default</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

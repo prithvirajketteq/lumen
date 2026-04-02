@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Depot</fullName>
+    <active>true</active>
+    <label>Depot</label>
+    <picklistValues>
+        <picklist>Designation_Type__c</picklist>
+        <values>
+            <fullName>Field</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Primary3PL</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Secondary3PLWarehouse</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

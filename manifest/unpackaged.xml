@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Spares_Planning</members>
+        <name>CustomApplication</name>
+    </types>
+    <types>
+        <members>Item_Record_Page</members>
+        <members>Spares_Planning_UtilityBar</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Lumen_Planning_Permission_Set_1</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ExternalCredential</name>
+    </types>
+    <types>
+		<members>unfiled$public/New_Items_Report_AC8</members>
+		<members>unfiled$public/New_Items_Report_uqB</members>
+		<name>Report</name>
+	</types>
+    <version>66.0</version>
+</Package>

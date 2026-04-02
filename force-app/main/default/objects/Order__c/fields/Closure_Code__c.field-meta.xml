@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Closure_Code__c</fullName>
+    <label>Closure Code</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>test</fullName>
+                <default>false</default>
+                <label>test</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Level 3 Warehouse</fullName>
+                <default>false</default>
+                <label>SLA not met -Level 3 Warehouse</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Spares in Wrong Place○</fullName>
+                <default>false</default>
+                <label>SLA not met -Spares in Wrong Place○</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Reorder Before Replenishment</fullName>
+                <default>false</default>
+                <label>SLA not met -Reorder Before Replenishment</label>
+            </value>
+            <value>
+                <fullName>SLA not met -No Deployed Data</fullName>
+                <default>false</default>
+                <label>SLA not met -No Deployed Data</label>
+            </value>
+            <value>
+                <fullName>Met SLA</fullName>
+                <default>false</default>
+                <label>Met SLA</label>
+            </value>
+            <value>
+                <fullName>Met SLA -Delivered As Requested</fullName>
+                <default>false</default>
+                <label>Met SLA -Delivered As Requested</label>
+            </value>
+            <value>
+                <fullName>EU</fullName>
+                <default>false</default>
+                <label>EU</label>
+            </value>
+            <value>
+                <fullName>Cancelled</fullName>
+                <default>false</default>
+                <label>Cancelled</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Double Order</fullName>
+                <default>false</default>
+                <label>SLA not met -Double Order</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Courier/3rd party logistics issue</fullName>
+                <default>false</default>
+                <label>SLA not met -Courier/3rd party logistics issue</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Weather</fullName>
+                <default>false</default>
+                <label>SLA not met -Weather</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Ordered Incorrectly</fullName>
+                <default>false</default>
+                <label>SLA not met -Ordered Incorrectly</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Tech not available</fullName>
+                <default>false</default>
+                <label>SLA not met -Tech not available</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Centrally Spared</fullName>
+                <default>false</default>
+                <label>SLA not met -Centrally Spared</label>
+            </value>
+            <value>
+                <fullName>SLA not met -Spares Gap</fullName>
+                <default>false</default>
+                <label>SLA not met -Spares Gap</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

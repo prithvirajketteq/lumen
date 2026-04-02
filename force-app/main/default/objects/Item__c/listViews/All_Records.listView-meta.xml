@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All_Records</fullName>
+    <columns>Primary__c</columns>
+    <columns>SAP_Part_Number__c</columns>
+    <columns>Item_Parent__c</columns>
+    <columns>NAME</columns>
+    <columns>SAP_Price__c</columns>
+    <columns>Total_Deployed__c</columns>
+    <columns>Excess_Spares__c</columns>
+    <columns>Sparing_Strategy__c</columns>
+    <columns>Spares_Trigger__c</columns>
+    <columns>Platform__c</columns>
+    <columns>Interchangeable__c</columns>
+    <columns>Interchangeable_Code__c</columns>
+    <filterScope>Everything</filterScope>
+    <label>All Records</label>
+</ListView>
